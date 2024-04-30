@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="project_tp">
+    <output-path>$PROJECT_DIR$/out/artifacts/project_tp</output-path>
+    <root id="archive" name="project_tp.jar">
+      <element id="artifact" artifact-name="tp_tdd_jar" />
+    </root>
+  </artifact>
+</component>
